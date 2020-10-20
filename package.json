@@ -1,0 +1,21 @@
+{
+    "name": "hawks",
+    "displayName": "Hawks",
+    "description": "Hawks theme for devs",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hawks",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hawks-color-theme.json"
+            }
+        ]
+    }
+}

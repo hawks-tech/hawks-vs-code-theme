@@ -1,0 +1,6 @@
+node_modules
+*.vsix
+miniTrampos/
+nlw/
+socializeme/
+worskpace-set/
