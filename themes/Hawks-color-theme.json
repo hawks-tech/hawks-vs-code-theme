@@ -715,8 +715,7 @@
               "entity.other.attribute-name"
           ],
           "settings": {
-              "foreground": "#50FA7B",
-              "fontStyle": "italic"
+              "foreground": "#50FA7B"
           }
       },
       {
@@ -806,7 +805,6 @@
               "support"
           ],
           "settings": {
-              "fontStyle": "italic",
               "foreground": "#8BE9FD"
           }
       },
