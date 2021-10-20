@@ -1,6 +1,10 @@
 {
     "name": "hawks",
     "displayName": "Hawks",
+    "publisher": "ag-hawks-devs",
+    "repository": {
+        "url": "https://github.com/hawks-devs/hawks-vs-code-theme"
+    },
     "icon": "https://avatars.githubusercontent.com/u/52007957?s=200&v=4",
     "description": "Hawks theme for devs",
     "version": "1.0.0",
