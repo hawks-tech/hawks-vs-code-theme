@@ -1,7 +1,7 @@
 {
     "name": "hawks",
     "displayName": "Hawks",
-    "icon": "./logo_hawks.png",
+    "icon": "https://avatars.githubusercontent.com/u/52007957?s=200&v=4",
     "description": "Hawks theme for devs",
     "version": "1.0.0",
     "engines": {
