@@ -1,6 +1,7 @@
 {
     "name": "hawks",
     "displayName": "Hawks",
+    "icon": "./logo_hawks.png",
     "description": "Hawks theme for devs",
     "version": "1.0.0",
     "engines": {
