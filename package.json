@@ -2,7 +2,7 @@
     "name": "hawks",
     "displayName": "Hawks",
     "description": "Hawks theme for devs",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.50.0"
     },
