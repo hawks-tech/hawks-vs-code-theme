@@ -1,0 +1,7 @@
+id = "hawks"
+name = "Hawks"
+version = "1.1.0"
+schema_version = 1
+authors = ["Raphael F <raphael@hawks.com.br>"]
+description = "Hawks theme for devs: Tokyo Night UI with Dracula syntax colors."
+repository = "https://github.com/hawks-tech/hawks-vs-code-theme"
