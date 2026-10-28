@@ -1,4 +1,30 @@
-# README
+# Hawks
+
+Hawks theme for devs: Tokyo Night UI with Dracula syntax colors.
+
+## VS Code
+
+Install **Hawks** (`ag-hawks-devs.hawks`) from the Marketplace.
+
+## Zed
+
+The Zed port lives in [`zed/`](zed/).
+
+1. Clone this repo.
+2. In Zed, run `zed: install dev extension` from the command palette and pick the `zed/` folder.
+3. Pick **Hawks** in `theme selector: toggle`.
+
+Recommended settings to match the VS Code setup:
+
+```json
+{
+  "buffer_font_family": "Fira Code",
+  "buffer_font_weight": 450,
+  "buffer_font_size": 13,
+  "buffer_line_height": { "custom": 1.5 },
+  "colorize_brackets": true
+}
+```
 
 ## This is the README for extension "Hawks"
 
