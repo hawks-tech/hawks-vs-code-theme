@@ -18,8 +18,8 @@ Recommended settings to match the VS Code setup:
 
 ```json
 {
-  "buffer_font_family": "Fira Code",
-  "buffer_font_weight": 450,
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_weight": 400,
   "buffer_font_size": 13,
   "buffer_line_height": { "custom": 1.5 },
   "colorize_brackets": true
